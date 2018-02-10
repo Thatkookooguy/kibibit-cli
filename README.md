@@ -1,4 +1,4 @@
-# kibibit-cli (aka bit)
+# kibibit-cli (aka bit) fork test
 #### a git-flow + GitHub replacement for `git` and `git flow`
 
 ##### installation
